@@ -2,7 +2,7 @@
  * Message Transmission with HDLC protocol
  * Created by
  * Peerachai Banyongrakkul Sec.1 5988070
- * Boonyada Lojanarungsiri Sec.1 5988070
+ * Boonyada Lojanarungsiri Sec.1 5988153
  * TransmissionTester.java
  */
 import java.util.Scanner;
